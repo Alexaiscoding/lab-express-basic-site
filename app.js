@@ -13,17 +13,4 @@ app.get('/work', (req, res, next) => res.render('work-page.hbs'));
 
 
 
-
-
-//  home page + link to the other page on the website 
-
-// about page basic information about the people 
-
-//Work Page
-
-// Phhoto Gallery page 
-
-
-
-
 app.listen(3000);
